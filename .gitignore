@@ -1,0 +1,8 @@
+# Ignore Generated API Keys
+api/api_keys.json
+
+# Ignore Virtual Environment Folder
+env/
+
+# Pycache
+api/__pycache__/

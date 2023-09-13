@@ -1,0 +1,574 @@
+[
+    {
+        "id": 20001,
+        "name": "Ceviche de pescado",
+        "url": "https://comococinar.pe/ceviche-de-pescado/",
+        "how_to_prepare": [
+            "El ceviche de pescado forma parte de la gastronomía peruana, convirtiéndose en plato bandera. Si estas de visita por nuestro país debes probarlo o prepararlo en casa para disfrutar de un plato fresco y delicioso con toda la familia.",
+            "El Perú es uno de los países donde encontraras diversas variedades de platos, por ejemplo, el ceviche de pota, de pollo, de pato, entre otros, los cuales tienen mucha acogida en la cocina peruana, pero a continuación te mostraremos la «receta maestra» para hacer un buen ceviche, el cual incluye todos los insumos tradicionales para preparar este plato. Al finalizar la preparación tendrán un pedacito del Perú en su plato.",
+            "Y hoy aprenderás a como hacer ceviche de pescado peruano con la receta tradicional en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes", 
+                "value": 30
+            },
+            "servings": 3
+        },
+        "ingredients": [
+            "450 g pescado lisa",
+            "2 cebollas medianas",
+            "1 cebolla grande (corte pluma)",
+            "2 ramas de apio",
+            "2 unidades de kion",
+            "1 cabeza de ajo entero.",
+            "Ají limo",
+            "Culantro entero",
+            "8 limones",
+            "1 ajino-moto",
+            "1 cda leche fresca (opcional)",
+            "1 lechuga",
+            "2 camotes sancochados",
+            "2 choclos sancochados",
+            "Sal al gusto",
+            "Cancha tostada (opcional)"
+        ],
+        "preparation": [
+            "En esta oportunidad usaremos pescado lisa al cual realizaremos cortes finos (puro filete limpio), seguido lo cortaremos cúbicos (reservamos)",
+            "Ahora haremos un fondo para el ceviche y para ello pondremos una olla con agua y agregaremos 1 rama de apio partido por la mitad, el espinazo del pescado incluido la cola y la cabeza, 1 kion partido por la mitad, 1 diente de ajo y una cebolla cortada por la mitad, dejaremos cocinar durante 25 minutos. Pasado el tiempo lo colaremos y reservaremos.",
+            "Para preparar la base del ceviche en una licuadora pondremos la mitad de una cebolla pequeña, una ramita de apio (sin hojas), un diente de ajo, un trocito de kion, aji limo (opcional para dar picante), 7 cubitos de pescado, un tallo de culantro (sin hojas), fondo de pescado (frio) hasta cubrir un poco todos los insumos y comenzamos a licuar por solo unos segundos. Una vez licuado vamos a colar para evitar algunos grumos (opcional, también puede ir sin colar) – Reservamos.",
+            "Vamos a cortar la cebolla restante en corte pluma, remojamos por 5 minutos y repetimos el procedimiento 3 veces con la finalidad de quitar el sabor amargo.",
+            "Picamos el culantro, solo las hojas, lo más fino posible.",
+            "Vamos a picar un ají limo en partes pequeñas (opcional)",
+            "Ahora en un bol grande vamos a combinar todos los insumos, pondremos nuestro pescado en trozos, agregamos sal al gusto, ajino-moto (sazonador), mezclamos para que tome sabor el pescado, luego echamos ají limo, culantro picado, agregamos el jugo de 8 limones (usar colador para evitar las pepas del limón), también agregamos la base de nuestro licuado que teníamos reservado.",
+            "Mezclamos y vamos probando el sabor para ir rectificando la sal de ser necesario.",
+            "Echamos la cebolla en corte pluma.",
+            "1 cucharadita de leche fresca (opcional), mezclamos y ya está listo.",
+            "Emplatamos acompañado con lechuga, camote sancochado, choclo sancochado y cancha tostada."
+        ],
+        "recommendations": [
+            "De preferencia usar peces con poca proporción de grasa, estos le darán textura ideal al plato."
+        ],
+        "history": [
+            "El ceviche de pescado es el plato insignia del Perú, declarándose en el 2004 como «Patrimonio Cultural de la Nación» y en el 2008 se establece cada 28 de junio como el «Día Nacional del Ceviche» con la finalidad de difundir nuestro plato bandera tanto nacional como internacionalmente.",
+            "Este plato según el historiador Javier Pulgar Vidal, el «Seviche» proviene de la palabra «Siwichi», palabra usada en el quechua para hacer referencia al pescado fresco. El Ceviche tiene una historia que abarca muchos años atrás donde su preparación era con un fruto llamado tumbo.",
+            "Con el pasar del tiempo y la llegada de los españoles se agregaron distintos insumos como el limón y la cebolla, potenciando de esta manera la gama de sabores que tenemos en la actualidad."
+        ]
+    },
+    {
+        "id" : 20002,
+        "name": "Lomo saltado",
+        "url": "https://comococinar.pe/lomo-saltado/",
+        "how_to_prepare": [
+            "El lomo saltado forma parte de la gastronomía peruana y es uno de los platos bandera a nivel nacional. Este plato consiste en saltear los insumos a fuego alto en una sarten o wok para lograr una leve cocción, pero con mucho sabor.",
+            "La receta de lomo es muy habitual en la mesa peruana y se suele preparar lomo saltado de pollo y carne, siempre manteniendo el mismo procedimiento de preparación.",
+            "Y hoy aprenderás a preparar lomo saltado de carne en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 35
+            },
+            "servings": 3
+        },
+        "ingredients": [
+            "300 g Carne o bistec suave",
+            "1/2 k Papa rosada",
+            "2 Tomates",
+            "2 Cebollas",
+            "1 Ají amarillo entero",
+            "Cebolla china",
+            "Sillao",
+            "Salsa de ostión (opcional)",
+            "1 cdra Ajo molido",
+            "Caldo de carne",
+            "Pimienta",
+            "Perejil picado",
+            "Vinagre",
+            "Sal al gusto",
+            "Aceite"
+        ],
+        "preparation": [
+            "Freímos nuestras papas cortadas en bastones con abundante aceite para evitar que se puedan quemar (reservamos)",
+            "Vamos a cortar la carne en trozos medianos a pequeños y vamos a ponerles un poco de sal y pimienta para que vaya tomando sabor.",
+            "Echamos un chorro de aceite en una sarten y la dejamos calentar.",
+            "Una vez caliente ponemos nuestra carne sazonada y vamos a dejarlo sellar por unos minutos.",
+            "Agregamos una cucharada de ajo molido y vamos flameando mientras la carne se va sellando lentamente con el aceite.",
+            "Seguido agregamos el ají amarillo en tiras largas, también ponemos las cebollas y vamos moviendo, no tener mucho tiempo la cebolla en la sarten ya que debe tener una textura crocante.",
+            "Echamos un chorrito de vinagre, un chorrito de sillao el cual le dará sabor y color al plato.",
+            "Agregamos los tomates cortados en tiras.",
+            "Un poco de salsa de ostión (opcional)",
+            "Ponemos un poco de caldo de carne para darle más jugo a nuestra preparación.",
+            "Ya para finalizar agregamos la cebolla china.",
+            "Lo vamos moviendo y flameando en todo momento a fuego alto para evitar que se sancoche, la cebolla debe presentar una tono dorado y textura crocante.",
+            "Lo cocinamos por tan solo minutos dependiendo la cocina y el fuego.",
+            "Para finalizar emplatamos calientito acompañado de arroz y sus papas fritas con una decoración de hojas de culantro."
+        ],
+        "recommendations": [
+            "De tener la carne congelada vamos a descongelar a temperatura ambiente para que pueda absorber todos los sabores a la hora del flameado.",
+            "No poner mucha sal ya que el sillao contiene sal.", "Desde que agregamos las cebollas vamos flameando y moviendo en todo momento."
+        ],
+        "history": [
+            "El lomo saltado es un plato típico de la gastronomía peruana, si nos remontamos al siglo XIX, este plato se solía llamar lomito de vaca o lomito a la chorrillana.",
+            "Este plato presenta influencia oriental-cantones por el manejo de la sarten «wok» para precisar los sabores en uno solo. Esta forma de preparar se ve involucrada con nuestra gastronomía criolla permitiendo de esta manera la fusión de ambas preparaciones tanto en el manejo del wok como con las especias nativas.",
+            "Un plato muy querido por los peruanos, lo dicho fue corroborado en el articulo huffington post, en el 2013, donde se califica al plato como uno de los mas apreciados por los peruanos. La presencia de este plato es tal que lo podemos encontrar desde restaurantes 5 estrellas hasta en el menú de la esquina."
+        ]
+    },
+    {
+        "id" : 20003,
+        "name": "Papa a la huancaína",
+        "url": "https://comococinar.pe/papa-a-la-huancaina/",
+        "how_to_prepare": [
+            "La papa a la huancaína es un plato muy reconocido tanto nacional e internacionalmente. El peruano es sinónimo de papa a la huancaína al igual que lo es con el ceviche.",
+            "Este plato tiene una preparación sencilla compuesta de insumo que podemos encontrarlo fácilmente. ¿Ya estas cansado/a de comer lo mismo?, con esta receta dejaras con la boca abierta y con gran satisfacción a todos en el hogar.",
+            "Y hoy aprenderás a preparar papa a la huancaína receta peruana en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit":"minutes",
+                "value": 25
+            },
+            "servings": 6
+        },
+        "ingredients": [
+            "1 kg papa blanca",
+            "1 cebolla mediana",
+            "4 ají amarillo",
+            "220 g queso",
+            "6 paquetes galleta soda",
+            "Aceite",
+            "1 tarro de leche",
+            "100 g aceituna",
+            "Sal al gusto",
+            "2 lechugas frescas",
+            "3 huevos sancochados"
+        ],
+        "preparation": [
+            "Vamos a poner aceite en la sarten y dejaremos calentar. Seguido ponemos los ajíes amarillos previamente lavados, cortados en trozos largos y sin pepas / venas.",
+            "También echamos la cebolla cortada en trozos medianos y sofreímos por 5 minutos.",
+            "Pasado los 5 minutos pondremos el sofrito en una licuadora y agregamos el queso, las galletas, la leche, un chorrito de aceite y procedemos a licuar.",
+            "Una vez licuado vamos a probar y corregiremos la sal de ser necesario. En este punto vemos la textura de nuestra crema, si está muy aguado vamos agregar un poco más de galleta y de estar espeso agregamos más leche balanceando la textura. Iremos rectificando la sal (reservamos)",
+            "Es hora de emplatar, lavamos 2 hojas de lechuga y lo ponemos como base en el plato, también pondremos papas sancochadas cortadas en rodajas y lo cubriremos con nuestra crema a la huancaína.",
+            "Para la decoración ponemos media tajada de huevo sancochado y una aceituna.",
+            "¡Buen provecho!"
+        ],
+        "recommendations": [
+            "Si gustan un poco picante en su papa a la huancaína vamos a freír la pepa del ají amarillo a un lado y agregaremos un poco a la licuadora.",
+            "Si la crema les esta quedando un poco liquida vamos agregar galleta hasta conseguir la textura deseada, de igual manera si esta espeso podemos agregar más leche."
+        ],
+        "history": [
+            "Una entrada muy difundida en el Perú y su historia tiene como punto de partida la construcción del Ferrocarril Central del Perú, en un tramo entre Lima – Huancayo, donde los trabajadores iban a comprar su comida a unas mujeres huancaínas, ellas les daban papas sancochadas bañadas en una salsa a base de queso, ajíes y leche, por ello se le denomino al plato como Papa a la Huancaína.",
+            "Otro relato hace mención a que este plato era vendido al paso en las estaciones del Ferrocarril Central del Perú – Huancayo, como un plato ligero a base de queso, ajíes y leche. Por ello el nombre «papas caminó a Huancayo», con el pasar del tiempo se le llamo «papa a la huancaína»",
+            "Hoy en día este plato lo encontramos en la mayoría de restaurantes desde grandes hasta pequeños, plato servido como entrada y acompañamiento."
+        ]
+    },
+    {
+        "id": 20004,
+        "name": "Ají de gallina",
+        "url": "https://comococinar.pe/aji-de-gallina/",
+        "how_to_prepare": [
+            "El ají de gallina es uno de los platos bandera en la cocina peruana. Este se caracteriza por su fácil preparación y una textura que a simple vista esta para chuparse los dedos.",
+            "En el Perú la denominación ají de gallina hace referencia al ají de pollo, siendo este un ave de consumo común en la mesa peruana. La diferencia entre gallina y pollo se define en sabores, de igual manera en el tiempo de preparación. ¿Te gustaría aprender a preparar un delicioso ají de pollo?, es muy sencillo y aquí tienes la receta.",
+            "Y hoy aprenderás a preparar ají de gallina receta peruana en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 55
+            },
+            "servings": 4
+        },
+        "ingredients": [
+            "1 Pechuga de gallina",
+            "4 Panes",
+            "1 tz Leche",
+            "2 Ramas de apio",
+            "1 Rama de poro",
+            "2 Cebollas (chica y grande)",
+            "50 g Pecanas",
+            "4 cdas Ají amarillo molido",
+            "2 Huevos",
+            "50 g Aceituna",
+            "Aceite",
+            "Sal al gusto"
+        ],
+        "preparation": [
+            "Ponemos una olla con agua y agregamos la gallina, el apio sin hojas, el poro (parte blanca), 1 cebolla pequeña cortada por la mitad, 1 cucharada de sal y la dejamos hasta que rompa en hervor.",
+            "Una vez que comienza a hervir ponemos a fuego medio y lo dejaremos cocinar por 30 minutos.",
+            "Pasado los 30 minutos retiramos la gallina y lo deshilacharemos, también reservaremos el líquido donde se cocinó la gallina.",
+            "En un bol vamos a poner los panes cortados en trozos pequeños y agregaremos 2 tazas de caldo de gallina y 1 taza de leche, mezclamos para integrar y remojar bien el pan.",
+            "Ahora pondremos esta mezcla en una licuadora, también agregamos las pecanas y la vamos a licuar por menos de 1 minuto (reservamos)",
+            "Vamos a echar un chorrito de aceite en una olla y lo dejaremos calentar.",
+            "Una vez caliente pondremos una cebolla finamente picada y lo dejaremos sofreír hasta que tome un tono transparente.",
+            "Luego agregamos 1 cucharada de ajo molido y lo sofreímos por 2 minutos.",
+            "Pasado los 2 minutos echamos las 4 cucharadas de ají amarillo molido sin picante y lo sofreiremos por 3 minutos.",
+            "En este punto vamos agregar el licuado reservado e iremos moviendo constantemente por unos minutos hasta que comience a tener un poco de textura.",
+            "Seguido ponemos la gallina deshilachada y mezclamos para integrar los insumos, rectificamos la sal y dejamos cocinar por solo 1 minuto y ya está listo para servir.",
+            "Servimos acompañado de una porción de arroz blanco, ponemos sobre unas rodajas de papa sancochada y como acompañamiento medio huevo sancochado y unas aceitunas.",
+            "¡Buen provecho!"
+        ],
+        "recommendations": [
+            "Para que la gallina no tarde mucho en cocinarse vamos a realizar algunos cortes a la pechuga.",
+            "Algunas personas les gusta sentir la textura en el plato, por ello solo remojar el pan sin pasarlo por la licuadora. Deberán mover constantemente hasta que tome consistencia.",
+            "Una vez agregado el licuado deberán mover hasta finalizar la preparación ya que el pan es harina y esta tiende a quemarse con facilidad."
+        ],
+        "history": [
+            "El ají de gallina es un plato típico de la gastronomía peruana y tiene origen en España tras su llegada en el siglo XIV. Un plato que nace como postre el cual incluye gallina, almendra, arroz y azúcar conociéndose en Europa como Menjar Blanc.",
+            "Según periodistas y redactores de su época este plato se comenzó a consumir como una crema destacando los insumos secundarios y dejando de lado la gallina ya que en esa época España pasaba por hambruna.",
+            "Este plato se hace presente en Lima en el siglo XVI, conociéndose como Manjar Blanco Real. La incorporación de productos nativos no se hace esperar y se agrega el ají amarillo peruano, insumo que da color y sabor al plato, también pasa de ser un plato dulce a convertirse en uno con sal. Muy consumido por parroquianos en fondas y restaurante.",
+            "Actualmente a pesar de llamarse ají de gallina este plato se prepara con pollo el cual es un ave económica y de fácil cocción. El nombre correcto es ají de pollo un plato que tiene encandilado a quien lo pruebe."
+        ]
+    },
+    {
+        "id": 20005,
+        "name": "Arroz con pollo",
+        "url": "https://comococinar.pe/arroz-con-pollo/",
+        "how_to_prepare": [
+            "El arroz con pollo es uno de los platos típicos de la gastronomía peruana, sin duda un plato con mucho sabor el cual incorpora gran cantidad de insumos nativos para su preparación.",
+            "¿Quieres aprender a preparar este plato?, con un buen proceso paso a paso y los tips necesarios tendrás un arroz con pollo para chuparse los dedos, no olvides acompañarlo con una deliciosa salsa criolla o la clásica papa a la huancaína como acompañamiento.",
+            "Y hoy aprenderás a preparar arroz con pollo receta peruana tradicional en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 60
+            },
+            "servings": 6
+        },
+        "ingredients": [
+            "1 kg arroz",
+            "6 piezas de pollo",
+            "1 tz culantro molido",
+            "1 pimentón rojo",
+            "2 zanahorias",
+            "1 cebolla grande",
+            "1/2 cdta comino",
+            "1/4 kg alverja",
+            "1 cda ajo molido",
+            "2 cda ají amarillo molido",
+            "1 tz cerveza negra",
+            "1 cdta pimienta",
+            "1 tz choclo desgranado",
+            "Sal al gusto",
+            "Aceite"
+        ],
+        "preparation": [
+            "Vamos a poner un chorro de aceite en una olla y la dejaremos calentar.",
+            "Una vez caliente agregamos nuestra piezas de pollo y procedemos a sellarlo por ambos lados por 5 minutos (reservamos los pollos)",
+            "Ahora agregaremos 1 cebolla finamente picada en la misma olla donde sellamos el pollo y lo dejaremos sofreir por 4 minutos.",
+            "Ponemos una cucharada de ajo molido y lo dejamos sofreír por 2 minutos.",
+            "Pasado los 2 minutos echamos media cucharadita de comino y una cucharadita de pimienta y lo dejamos por 2 minuto.",
+            "Agregamos el ají amarillo molido y dejamos sofreír por 2 minutos más.",
+            "Vamos agregar el culantro molido, mezclamos para integrar los insumos y lo dejaremos cocinar por 3 minutos.",
+            "Ponemos 1 cucharada de sal para dar sabor.",
+            "Agregamos nuestras piezas de pollo (No mover mucho para evitar que se destrocen)",
+            "Vamos a poner media taza de cerveza y dejamos cocinar por un par de minutos para evaporar el alcohol.",
+            "Ponemos agua hasta que cubra nuestras piezas de pollo",
+            "Tapamos y dejamos cocinar a fuego medio entre 20 a 25 minutos.",
+            "Una vez pasado el tiempo procedemos a retirar las presas y vamos a poner el arroz (previamente lavado)",
+            "Ponemos el choclo desgranado, las alverjas, la zanahoria en cubos pequeños, los pimientos cortados en tiras largas y mezclamos para integrar los insumos.",
+            "Echamos la media taza de cerveza restante y agregamos un poco de agua (el agua debe estar un dedo sobre el arroz)",
+            "Corregimos la sal ya que hemos agregamos agua.",
+            "Tapamos y dejamos cocinar tanto el arroz con las verduras a fuego bajo por unos 18 minutos.",
+            "Servimos cada plato con su respectiva presa de pollo, también pueden acompañarla con su salsa criolla y una deliciosa papa a la huancaína."
+        ],
+        "recommendations": [
+            "Dependiendo el tipo de arroz se va a cocinar con cierta cantidad de agua, normalmente echar un poco más de agua ya que tiene que cocinar junto a las verduras."
+        ],
+        "history": [
+            "El arroz con pollo peruano es uno de los platos típicos que tiene gran presencia al norte del Perú, por mencionar las provincia de Lambayeque y Chiclayo donde este plato salta a simple vista por su peculiar forma tradicional de preparación.",
+            "Este plato nace durante el siglo XIX, donde el uso del pato era frecuente en provincias ya que se tenían en criaderos dentro de los hogares. La popularidad del plato llega a la capital de Lima y se adapta reemplazando al pato por el pollo ya que era mas económico y fácil de conseguir, también se deja de lado el uso de la chicha de jora por simplemente agua y un poco de cerveza negra que sirve para realzar el sabor de los insumos.",
+            "Un plato que lleva la marca del Perú consigo debido al uso de muchos productos nativos como el choclo, chicha de jora, alverjas, entre otros."
+        ]
+    },
+    {
+        "id": 20006,
+        "name": "Pachamanca a la tierra",
+        "url": "https://comococinar.pe/pachamanca-a-la-tierra/",
+        "how_to_prepare": [
+            "La pachamanca a la tierra es un plato peruano que contiene mucha tradición y sabor, este mantiene la forma ancestral de preparación bajo tierra usado por nuestros antepasados. Forma de preparación que paso de generación en generación.",
+            "Como su nombre lo dice «a la tierra», consiste en cocinar todo bajo tierra con la ayuda de piedras calientes creando de esta manera un horno natural. ¿Alguna vez probaste la pachamanca?, cuando lo prepares bajo tierra el sabor es incomparable. ¿Estas listo/a?, ¡comencemos!",
+            "Y hoy aprenderás a como hacer pachamanca a la tierra de Huancayo con la receta tradicional."
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "hours",
+                "value": 3
+            },
+            "servings": "Variable"
+        },
+        "ingredients": [
+            "Carne de carnero",
+            "Pollo",
+            "Cuy",
+            "Chancho",
+            "Papa amarilla",
+            "Papa Huayro",
+            "Camote",
+            "Mashua",
+            "Habas",
+            "Culantro molido",
+            "Ají especial",
+            "Ají amarillo",
+            "Ajo molido",
+            "Sal",
+            "Chicha de jora"
+        ],
+        "materials": [
+            "Piedra",
+            "Hojas de plátano",
+            "Costales",
+            "Plástico grande",
+            "Fierro pequeño",
+            "Manta"
+        ],
+        "preparation": [
+            "Las carnes, los tubérculos y el aderezo son a gusto de cada uno.",
+            "Primero vamos a poner las carnes elegidas en una fuente y vamos a realizar cortes por todos lados para que el aderezo pueda entrar bien.",
+            "Vamos a usar un bol y vamos a colocar la cantidad necesaria de aderezo para marinar nuestra carne, esto es al gusto, se agrega todos los insumos en el bol: Culantro molido, ají especial molido, ají amarillo molido, ajo molido, sal, chicha de jora. Movemos y vamos probando el sabor.",
+            "Ahora agregamos el aderezo que preparamos a la carne y dejamos macerar un momento mientras hacemos el horno.",
+            "Con la ayuda de un pico procedemos a hacer un agujero no tan profundo, como para que ingrese la mitad de un ladrillo de lado.",
+            "Es momento de colocar una pared de piedra por alrededor dejando una puerta para poder colocar la leña, también con la ayuda de unos fierros hacemos la estructura del techo y poder apoyar las piedras sobre, creando una forma de mina casa.",
+            "Vamos a prender fuego dentro y dejar calentar las piedras por aproximado de 1 hora y media.",
+            "Pasado el tiempo con la ayuda de un arbusto o escoba podemos retirar las cenizas que estén sobre las piedras.",
+            "Ahora vamos a dejar una cama de piedras y el resto lo ponemos de lado para usarlo luego.",
+            "Es momento de colocar los insumos, primero ponemos las papas y camotes, las papas contienen gran cantidad de líquido por ello ayudan con la cocción.",
+            "Luego vamos a cubrir con unas cuantas piedras calientes con cuidado, ahora ponemos las presas. Mientras vamos colocando las presas podemos ir poniendo las piedras para que tengan contacto directo y se puedan cocinar bien.",
+            "Es momento de cubrir para ello usamos las hojas de plátanos, empezamos desde los bordes y finalizamos por la parte superior. En este punto agregamos las habas para que ayuden a mantenerse en su lugar.",
+            "Cubrimos con más hojas de plátanos y luego procedemos a cubrir con costales toda la superficie, también nos ayudamos de un plástico grande para cubrir todo y evitar que la concentración de calor escape.",
+            "Para finalizar echamos tierra sobre y cubrimos toda la superficie, dejándolo cocinar por un par de horas.",
+            "Pasado el tiempo vamos a ver por un lado para fijarnos que la carne este totalmente cocida, si es así vamos a retirar toda la cubierta y con cuidado sacamos la comida en fuentes.",
+            "Es momento de servir, ¡buen provecho!"
+        ],
+        "recommendations": [
+            "No existe una cantidad exacta para medir el aderezo, todo depende de cuanto preparen, de igual manera se pueden guiar de la receta pachamanca a la olla donde preparamos en base a una cantidad.",
+            "El aderezo para pachamanca a la tierra se suele hacer el mismo día ya que la carne es fresca y absorbe rápido.",
+            "Si tienen carne congelada pueden preparar el aderezo de un día para otro de esta manera dejaremos a la carne absorber muy bien el aderezo."
+        ],
+        "history": [
+            "La pachamanca a la tierra es originaria de Perú, preparado en distintas provincias como este es el caso de Huancayo, lugar en el cual es tradición preparar en gran cantidad.",
+            "En la antigüedad este plato se preparaba como agradecimiento a la madre tierra “Pachamama”, por la buena cosecha y cultivo.",
+            "En la actualidad este plato se hace ocasionalmente en ceremonias, reuniones familiares o bodas. Una preparación que mantiene su tradición de generación en generación."
+        ]
+    },
+    {
+        "id": 20007,
+        "name": "Causa rellena de pollo",
+        "url": "https://comococinar.pe/causa-rellena-de-pollo/",
+        "how_to_prepare": [
+            "La causa rellena de pollo es un plato de origen peruano muy versátil el cual podemos variar dependiendo el insumo que tengamos ya sea pollo, atún, langostinos o simplemente con verduras.",
+            "Esta receta se hace en reuniones familiares ya que es una alternativa rica y fresca de preparar. ¿Quieres aprender a como prepararlo?, aquí te damos los tips para hacerlo en tan solo unos pasos.",
+            "Y hoy aprenderás a como hacer causa rellena de pollo receta peruana tradicional, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 60
+            },
+            "servings": 4
+        },
+        "ingredients": [
+            "Ají amarillo molido",
+            "5 Papas amarillas",
+            "5 Papas blancas",
+            "Mayonesa",
+            "10 g Aceituna",
+            "1 ramita de apio",
+            "3 Zanahorias",
+            "150 g Vainita",
+            "100 g Alverjita",
+            "3 Limones",
+            "Sal al gusto",
+            "Lechuga",
+            "2 Huevos sancochados",
+            "Una pechuga de pollo"
+        ],
+        "preparation": [
+            "Ponemos una olla con agua y dejamos calentar, luego agregamos sal y movemos. Una vez caliente ponemos nuestras papas blancas y sobre ellas vamos a poner las papas amarillas (Dejamos sancochar y reservamos)",
+            "En otra olla con agua, vamos agregar nuestra pechuga de pollo le ponemos sal y agregamos la ramita de apio (Dejar sancochar y reservar)",
+            "También vamos a poner otra olla y sancocharemos la zanahoria, las alverjas y la vainita. Una vez sancochado vamos a pelar la zanahoria y la picaremos en cubitos pequeños, también picaremos en partes pequeñas la vainita (Reservamos)",
+            "Una vez sancochado nuestra pechuga de pollo vamos a deshilacharlo.",
+            "En un bol vamos a poner nuestra pechuga deshilachada, la zanahoria cortada en cubitos, la vainita y las alverjas. A todo esto, le agregamos mayonesa y mezclamos todo muy bien (reservamos)",
+            "Es hora de amasar nuestras papas, primero las pelamos y luego con la ayuda de un tenedor vamos a aplastarlas hasta formar una masa. Realizamos este proceso con las papas amarillas y blancas.",
+            "Una vez bien amasado agregamos 3 cucharadas de ají amarillo molido, sal, jugo de limón, un chorrito de aceite y comenzamos amasar todo (reservamos)",
+            "Vamos hacer uso de dos bolsas de plástico y sobre este vamos a poner nuestra masa de papa dando forma triangular teniendo una masa extendida no tan gruesa. Hacemos este paso para 2 bolsas.",
+            "Retiramos una bolsa y ponemos nuestra masa sobre una cama de lechuga muy bien lavada.",
+            "Sobre nuestra masa vamos a poner nuestra mezcla de pechuga de pollo y los demás componentes de manera extendida.",
+            "Luego procedemos a taparlo con nuestra otra bolsa con masa.",
+            "Es momento de decorar el plato con huevo sancochado en trozos y las ricas aceitunas.",
+            "¡Buen provecho!"
+        ],
+        "recommendations": [
+            "Al sancochar las papas primero ponemos las papas blancas y luego sobre estas las amarillas, esto debido a que las papas amarillas no necesitan tanta agua para que puedan sancocharse.",
+            "Se recomienda pelar las papas cuando aun están calientes para que la cascara sea mas fácil de desprender, podemos hacer uso de guantes o humedecer nuestras manos con agua cada cierto tiempo."
+        ],
+        "history": [
+            "La causa rellena de pollo es de origen peruano, un plato que nació en épocas difíciles como apoyo a la nación. Nos remontamos a los años 1820 para hablar un poco sobre la Causa Limeña. Durante esos años se llevaba a cabo la Expedición Libertadora del Perú, un grupo de mujeres se sumaba al apoyo de los soldados brindando comida, ropa y medicina.",
+            "Su aporte principal radico en un fondo de colecta en insumos como: papa, cholo, zanahoria, alverjas, entre otros. Ya con todo esto decidieron crear un plato que pueda venderse y asi comprar medicina y seguir apoyando a la causa. Mismo nombre que recibió el plato al ser vendido en Lima, donde las mujeres pronunciaban: «Por la causa», «Por la causa limeña», en la actualidad este plato ha traspasado fronteras siendo de muy fácil preparación."
+        ]
+    },
+    {
+        "id": 20008,
+        "name": "Aguadito de pollo",
+        "url": "https://comococinar.pe/aguadito-de-pollo/",
+        "how_to_prepare": [
+            "El aguadito de pollo es una deliciosa sopa a base de aderezo, típico de la cocina peruana. Este plato consiste en aderezar, sofreír las presas de pollo y cocinar el arroz obteniendo una gran concentración de todos los insumos.",
+            "Un plato considerado un levantamuertos, el cual compartió lugar con el tradicional caldo de gallina peruano. Ambos platos servidos calientes en la madrugada después de una noche de jarana.",
+            "Y hoy aprenderás a preparar la receta de aguadito de pollo en solo unos pasos, ¡comencemos!"
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 25
+            },
+            "servings": 5
+        },
+        "ingredients": [
+            "200 g Arroz",
+            "700 g Pollo (Menudencia)",
+            "65 g Alverja",
+            "1 crda Ajo molido",
+            "2 1/2 lt Agua",
+            "40 g Zapallo",
+            "3 Papas amarillas",
+            "1 tz Culantro molido",
+            "Cebolla pequeña",
+            "1 Choclo desgranado",
+            "Orégano molido",
+            "1 Zanahoria",
+            "Pimiento en tiras",
+            "2 crda Ají amarillo molido",
+            "1/2 crdita Pimienta",
+            "1/2 crdita Comino",
+            "Sal al gusto",
+            "Aceite"
+        ],
+        "preparation": [
+            "En una olla agregamos un chorrito de aceite y lo dejamos calentar.",
+            "Una vez caliente ponemos la cebolla finamente picada y la dejamos cocinar hasta que tome un tono transparente.",
+            "Ahora pondremos la cucharada de ajo molido y lo sofreimos por 2 minutos.",
+            "Pasado lo 2 minutos agregamos las 2 cucharadas de aji amarillo molido y lo sofreimos por otros 2 minutos.",
+            "Vamos a echar una taza de culantro molido y pondremos pimienta, comino y un poco de sal para dar sabor y lo cocinaremos por 4 minutos.",
+            "Luego agregamos nuestras piezas de pollo y lo sofreiremos por 2 minutos.",
+            "Vamos a echar nuestra zanahoria picada en cubitos pequeños, el zapallo cortado en trozos medianos y nuestras tiras de pimiento (Agregamos los 2 litros y medio de agua)",
+            "Echamos el orégano molido y dejamos hervir por unos 7 minutos.",
+            "Pasado el tiempo vamos a poner el arroz, las alverjas y nuestro choclo desgranado (Dejamos hervir por unos 15 minutos)",
+            "Pasado el tiempo vamos a poner nuestras papas amarillas cortadas en trozos medianos, corregimos la sal y dejamos cocinar por 10 minutos.",
+            "Y llego el momento de emplatar.",
+            "Lo podemos acompañar con unas ricas canchitas tostadas y su camote sancochado. ¡Buen provecho!"
+        ],
+        "recommendations": [
+            "El tradicional aguadito de pollo se realiza con menudencia de pollo, esto queda a elección de cada uno.",
+            "De no usar menudencia vamos a trozar el pollo en 5 piezas.",
+            "Para lograr un mayor espesor agregamos más papa amarilla y si queremos más liquido agregaremos más agua."
+        ],
+        "history": [
+            "El aguadito de pollo es un plato típico de la gastronomía peruana, la cual nace por españoles quienes en la época colonial traen consigo el arroz, los cuales son influencia árabe en su cocina.",
+            "El arroz un grano muy consumido en el Perú y deja la forma clásica del segundo como acompañamiento para formar parte de la sopa con su inconfundible aderezo.",
+            "Un plato que es considerado el levantamuertos, denotación que lleva el caldo de gallina y la sopa de mote, platos que son consumidos durante la madrugado con la finalidad de revitalizar el cuerpo después de una noche de jarana.",
+            "El aguadito por su fácil y rápida preparación forma parte del menú popular en la mesa peruana."
+        ]
+    },
+    {
+        "id": 20009,
+        "name": "Rocoto relleno arequipeño",
+        "url": "https://comococinar.pe/rocoto-relleno-arequipeno/",
+        "how_to_prepare": [
+            "El rocoto relleno arequipeño es un plato insignia del Perú, el nombre proviene de la ciudad de Arequipa en donde se realiza este delicioso plato.",
+            "A pesar de ser hecho a base de rocoto el cual es picante, este plato no es para nada picante y es perfecto tanto para adultos como para niños. Lleva un aderezo de relleno e insumos externos como huevo y aceite que realzan el sabor.",
+            "Este plato cumple con las 3 reglas principales: Bueno, bonito y barato. ¿Aun no lo has probado?",
+            "Pues hoy aprenderás a como cocinar este delicioso Rocoto relleno Arequipeño para dejar sorprendidos a todos en casa."
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 45
+            },
+            "servings": 12
+        },
+        "ingredients": [
+            "12 Rocoto",
+            "2 cda Ají especial",
+            "200 g Cebolla",
+            "1/4 tz Aceite",
+            "600 g Carne molida",
+            "1 cdita Pimienta",
+            "1/2 cdita Orégano",
+            "1/4 cdita Comino",
+            "1 cda Ajo molido",
+            "Sal al gusto",
+            "100 g Maní molido",
+            "3 Huevo sancochado",
+            "Aceituna",
+            "8 huevo",
+            "1 tarro Leche evaporada",
+            "Queso fresco"
+        ],
+        "preparation": [
+            "Vamos a lavar muy bien nuestros rocotos, luego cortamos la parte superior como una atapa y lo guardamos.",
+            "Con la ayuda de una cuchara vamos a quitar las pepas y rascar las venas internas, dejándolos totalmente limpios (Evitar el picante)",
+            "En una olla con agua hirviendo vamos a poner una cucharada de sal y procedemos a poner nuestros rocotos limpios, lo dejamos por 3 minutos sin tapar la olla, luego retiramos el rocoto y volvemos hacer este procedimiento por 2 veces más con la finalidad de quitar todo el picante (Poner rocoto con tapa)",
+            "Vamos a retirar y lo ponemos en agua fría para evitar que sigan cociéndose, luego lo reservamos y dejamos escurrir.",
+            "En una sarten con aceite caliente le agregamos la cebolla finamente picada, el comino y ajo, dejamos que se cocine hasta que la cebolla tome un tono transparente.",
+            "Agregamos la carne dejamos que se cocine, agregamos el ají panca, el orégano, la pimienta y echamos una cucharadita de sal.",
+            "Vamos moviendo y cuando la carne este bien cocinada agregamos el maní y seguimos mezclando (Reservamos.)",
+            "Vamos a tomar nuestros rocotos y le ponemos el relleno que acabamos de preparar, una aceituna, un trocito de huevo sancochado y tapamos con más relleno. Luego de rellenarlo, sobre le ponemos una rodaja de queso para que se derrita y le colocamos su tapita.",
+            "Colocamos todos nuestros rocotos en una fuente con un chorrito de aceite en la base para evitar que puedan pegarse (Reservamos)",
+            "En un bol ponemos los 8 huevos y los batimos, luego agregamos el tarro de leche, una cucharada de sal y pimienta. Batir hasta que se integren bien.",
+            "Una vez mezclado procedemos a echarlo sobre nuestro rocoto en la fuente.",
+            "Vamos a llevarlo al horno por 15 minutos a una temperatura de 200 °C",
+            "Retiramos del horno y buen provecho."
+        ],
+        "recommendations": [
+            "Recomendación, con la ayuda de un cuchillo pequeño y una cuchara vamos a retirar muy bien las pepas y las venas del rocoto para evitar que nuestra preparación quede picante.",
+            "Para preparar el rocoto relleno debemos tener en cuenta la elección del rocoto donde consideraremos la madures y el tipo de ají. Cuando vayamos a comprarlo tenemos que elegir los de apariencia roja y fresca, no elegir los que están demasiados maduros, ni los verdes de lo contrario al preparar esta receta de rocoto relleno no quedaran muy contentos con el resultado."
+        ],
+        "history": [
+            "Un poco de Historia sobre nuestro delicioso Rocoto relleno Arequipeño, la base de este plano se debe al Rocoto el cual forma parte de la gran variedad que existe en Perú, como lo es el ají amarillo, ají limo, ají especial, entre otros.",
+            "Mas que una historia detrás del plato este tiene un cuento fantasioso cuya creación corresponde a Manuel Masías, un legendario cocinero Arequipeño.",
+            "Se dice que Manuel Masías baja al mismo infierno a recuperar el alma de su hija Dephine, quien había fallecido, puesto que el diablo tenía presa su alma. Este con agallas confronta a Lucifer a quien le ofrece un trueque a cambio del alma de su hija. El trato es el siguiente preparar un banquete y su queda satisfecho liberaría su alma.",
+            "Manuel ni corto ni perezoso comenzaron de inmediato y entre sus insumos tenía un rocoto, este con la presión y su gran conocimiento culinario creo un plato único que sería su arma principal. Lucifer al probar el Rocoto relleno de diversos insumos quedo rendido, tanto así, que se convirtió en un ser angelical.​",
+            "Deliciosa historia que envuelve al rocoto relleno arequipeño."
+        ]
+    },
+    {
+        "id": 20010,
+        "name": "Cóctel de Machu Picchu",
+        "url": "https://comococinar.pe/coctel-de-machu-picchu/",
+        "how_to_prepare": [
+            "Cóctel de Machu Picchu bebida insignia del Perú que lleva el nombre de nuestra maravilla peruana en Cusco. Su preparación consta de 3 colores que son en representación del Tahuantinsuyo.",
+            "¿Parece difícil de preparar?, aquí te presentamos la receta paso a paso y con la recomendación necesaria para lograr la integración en los 3 colores sin combinarlos.",
+            "Y hoy aprenderás a preparar coctel Machu Picchu trago peruano con la receta tradicional."
+        ],
+        "information": {
+            "cooktime": {
+                "unit": "minutes",
+                "value": 7
+            },
+            "servings": 4
+        },
+         "ingredients": [
+            "1 1/2 oz Pisco quebranta",
+            "1/2 oz Licor de menta",
+            "2 oz Jugo de naranja",
+            "1 oz Granadina",
+            "Cubos de hielo"
+         ],
+         "preparation": [
+            "Vamos a verter 1 onza y media de Pisco en un vaso, también agregamos 1/2 onza de licor de menta (reservamos)",
+            "En la copa donde vamos a servir, agregamos 1 onza de granadina y ponemos cubitos de hielo hasta el tope del vaso.",
+            "Ahora agregamos el jugo de naranja de manera suave para mantener la división.",
+            "Para finalizar vamos a verter nuestra mezcla de pisco y menta reservada de manera muy lenta.",
+            "Ya esta listo, lo podemos decorar con su fruta alrededor de la copa.",
+            "¡Buen provecho!"
+         ],
+         "recommendations": [
+            "Al momento de verter un liquido sobre otro en la copa nos podemos ayudar de una cuchara para amortiguar la caída del líquido, de esta manera aseguramos que se mantengan divididos dando una hermosa presentación."
+         ],
+         "history": [
+            "El origen del Cóctel de Machu Picchu es peruano, representando en lo alto a la bandera del Tahuantinsuyo o “tawantinsuyo”, idioma proveniente del quechua “tawa”, significa cuatro y “suyo”, regiones. De esta manera representaba a las principales regiones en la que se encontraba dividido el imperio inca.",
+            "Para preparar la bebida se usan 4 insumos básicos: El pisco, licor de menta, jugo de naranja y la granadina. Estos insumos se sirven formando capas y dando la apariencia de la bandera del Tahuantinsuyo.",
+            "Esta bebida es muy conocida tanto nacional como internacionalmente, puesto que su preparación es favorita de turistas que vienen a visitar una de las 7 maravillas que tenemos en el Perú “Machu Picchu”, los turistas quedan maravillados no solo con el recorrido, sino también con la tradición y cultura que esta trae consigo. Los potajes y bebidas tradicionales como la chicha de jora, otra bebida emblema del Perú y sus platos como la pachamanca, cuy chactado, entre otros dejan en asombro a quienes lo prueban."
+         ]
+    }
+]
