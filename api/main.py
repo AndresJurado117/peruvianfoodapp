@@ -3,33 +3,21 @@ from typing import Optional
 from fastapi import FastAPI, Path, HTTPException, Response, Security
 from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
-import json, random
+import json, random, csv
+from csv import DictReader
 
 app = FastAPI()
 
-api_keys = json.load(open("api_keys.json"))
+api_keys = []
+
+with open("keys.csv", "r") as csvfile:
+    datareader = DictReader(csvfile)
+    for row in datareader:
+        api_keys.append(row["api_key"])
 
 api_key_header = APIKeyHeader(name="API-Key")
 
 recipes = json.load(open("recipes.json", encoding="utf-8"))
-
-
-class Recipe(BaseModel):
-    name: str
-    difficulty: str
-    portions: int
-    ingredients: list
-    preparation: list
-    nutritional_info: str
-
-
-class UpdateRecipe(BaseModel):
-    name: Optional[str] = None
-    difficulty: Optional[str] = None
-    portions: Optional[int] = None
-    ingredients: Optional[list] = None
-    preparation: Optional[list] = None
-    nutritional_info: Optional[str] = None
 
 
 def get_api_key(api_key_header: str = Security(api_key_header)) -> str:

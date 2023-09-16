@@ -1,5 +1,6 @@
 # Ignore Generated API Keys
-api/api_keys.csv
+api/keys.csv
+api_key_generator/keys.csv
 
 # Ignore Virtual Environment Folder
 env/
