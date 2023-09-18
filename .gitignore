@@ -3,7 +3,8 @@ api/keys.csv
 api_key_generator/keys.csv
 
 # Ignore Virtual Environment Folder
-env/
+api/api_env/
+web/web_env/
 
 # Pycache
 api/__pycache__/

@@ -1,9 +1,8 @@
-from typing import Optional
+from typing import Annotated
 
 from fastapi import FastAPI, Path, HTTPException, Response, Security
 from fastapi.security import APIKeyHeader
-from pydantic import BaseModel
-import json, random, csv
+import json, random
 from csv import DictReader
 
 app = FastAPI()
@@ -38,12 +37,12 @@ async def read_root() -> Response:
     "/recipes/{recipe_id}",
     response_model=dict,
     status_code=200,
-    tags=["Recipes"],
+    tags=["Get recipes"],
     summary="Get a recipe",
     response_description="The recipe",
 )
 async def get_recipe(
-    recipe_id: str = Path(description="Recipe ID number."),
+    recipe_id: Annotated[int, Path(description="Recipe ID number.", gt=20000)],
     api_key: str = Security(get_api_key),
 ):
     for recipe in recipes:
@@ -56,14 +55,20 @@ async def get_recipe(
     )
 
 
-@app.get("/recipe_by_name", status_code=200, tags=["Recipes"])
-async def get_recipe_name(name: Optional[str] = None):
-    for recipe_id in recipes:
-        if recipes[recipe_id]["name"] == name:
-            return recipes[recipe_id]
-    return {"Data": "Not found"}
+@app.get("/search_recipe/{query}", status_code=200, tags=["Get recipes"])
+async def search_recipe(query: str = Path(description="Recipe query")):
+    print(query.casefold()) #Debug
+    search = []
+    for recipe in recipes:
+        if recipe["name"].casefold() == query.casefold():
+            return {"id": recipe["id"], "name": recipe["name"]}
+        elif query.casefold() in recipe["name"].casefold():
+            search.append({"id": recipe["id"], "name": recipe["name"]})
+    if len(search) != 0:
+        return search
+    raise HTTPException(status_code=404, detail="No results")    
 
 
-@app.get("/random_recipe", response_model=dict, status_code=200, tags=["Recipes"])
+@app.get("/random_recipe", response_model=dict, status_code=200, tags=["Get Recipes"])
 async def get_random_recipe(api_key: str = Security(get_api_key)):
     return random.choice(recipes)
