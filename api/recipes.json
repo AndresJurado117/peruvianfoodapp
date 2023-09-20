@@ -3,6 +3,7 @@
         "id": 20001,
         "name": "Ceviche de pescado",
         "url": "https://comococinar.pe/ceviche-de-pescado/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/Ceviche-de-pescado-1.jpg",
         "how_to_prepare": [
             "El ceviche de pescado forma parte de la gastronomía peruana, convirtiéndose en plato bandera. Si estas de visita por nuestro país debes probarlo o prepararlo en casa para disfrutar de un plato fresco y delicioso con toda la familia.",
             "El Perú es uno de los países donde encontraras diversas variedades de platos, por ejemplo, el ceviche de pota, de pollo, de pato, entre otros, los cuales tienen mucha acogida en la cocina peruana, pero a continuación te mostraremos la «receta maestra» para hacer un buen ceviche, el cual incluye todos los insumos tradicionales para preparar este plato. Al finalizar la preparación tendrán un pedacito del Perú en su plato.",
@@ -59,6 +60,7 @@
         "id" : 20002,
         "name": "Lomo saltado",
         "url": "https://comococinar.pe/lomo-saltado/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/Lomo-saltado-1.jpg",
         "how_to_prepare": [
             "El lomo saltado forma parte de la gastronomía peruana y es uno de los platos bandera a nivel nacional. Este plato consiste en saltear los insumos a fuego alto en una sarten o wok para lograr una leve cocción, pero con mucho sabor.",
             "La receta de lomo es muy habitual en la mesa peruana y se suele preparar lomo saltado de pollo y carne, siempre manteniendo el mismo procedimiento de preparación.",
@@ -118,6 +120,7 @@
         "id" : 20003,
         "name": "Papa a la huancaína",
         "url": "https://comococinar.pe/papa-a-la-huancaina/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/Papa-a-la-huancaina-1.jpg",
         "how_to_prepare": [
             "La papa a la huancaína es un plato muy reconocido tanto nacional e internacionalmente. El peruano es sinónimo de papa a la huancaína al igual que lo es con el ceviche.",
             "Este plato tiene una preparación sencilla compuesta de insumo que podemos encontrarlo fácilmente. ¿Ya estas cansado/a de comer lo mismo?, con esta receta dejaras con la boca abierta y con gran satisfacción a todos en el hogar.",
@@ -166,6 +169,7 @@
         "id": 20004,
         "name": "Ají de gallina",
         "url": "https://comococinar.pe/aji-de-gallina/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2022/05/Aji-de-gallina.jpg",
         "how_to_prepare": [
             "El ají de gallina es uno de los platos bandera en la cocina peruana. Este se caracteriza por su fácil preparación y una textura que a simple vista esta para chuparse los dedos.",
             "En el Perú la denominación ají de gallina hace referencia al ají de pollo, siendo este un ave de consumo común en la mesa peruana. La diferencia entre gallina y pollo se define en sabores, de igual manera en el tiempo de preparación. ¿Te gustaría aprender a preparar un delicioso ají de pollo?, es muy sencillo y aquí tienes la receta.",
@@ -223,6 +227,7 @@
         "id": 20005,
         "name": "Arroz con pollo",
         "url": "https://comococinar.pe/arroz-con-pollo/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/Arroz-con-pollo-1.jpg",
         "how_to_prepare": [
             "El arroz con pollo es uno de los platos típicos de la gastronomía peruana, sin duda un plato con mucho sabor el cual incorpora gran cantidad de insumos nativos para su preparación.",
             "¿Quieres aprender a preparar este plato?, con un buen proceso paso a paso y los tips necesarios tendrás un arroz con pollo para chuparse los dedos, no olvides acompañarlo con una deliciosa salsa criolla o la clásica papa a la huancaína como acompañamiento.",
@@ -285,6 +290,7 @@
         "id": 20006,
         "name": "Pachamanca a la tierra",
         "url": "https://comococinar.pe/pachamanca-a-la-tierra/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/08/Pachamanca-a-la-tierra.jpg",
         "how_to_prepare": [
             "La pachamanca a la tierra es un plato peruano que contiene mucha tradición y sabor, este mantiene la forma ancestral de preparación bajo tierra usado por nuestros antepasados. Forma de preparación que paso de generación en generación.",
             "Como su nombre lo dice «a la tierra», consiste en cocinar todo bajo tierra con la ayuda de piedras calientes creando de esta manera un horno natural. ¿Alguna vez probaste la pachamanca?, cuando lo prepares bajo tierra el sabor es incomparable. ¿Estas listo/a?, ¡comencemos!",
@@ -355,6 +361,7 @@
         "id": 20007,
         "name": "Causa rellena de pollo",
         "url": "https://comococinar.pe/causa-rellena-de-pollo/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/causa-rellena-de-pollo-1.jpg",
         "how_to_prepare": [
             "La causa rellena de pollo es un plato de origen peruano muy versátil el cual podemos variar dependiendo el insumo que tengamos ya sea pollo, atún, langostinos o simplemente con verduras.",
             "Esta receta se hace en reuniones familiares ya que es una alternativa rica y fresca de preparar. ¿Quieres aprender a como prepararlo?, aquí te damos los tips para hacerlo en tan solo unos pasos.",
@@ -411,6 +418,7 @@
         "id": 20008,
         "name": "Aguadito de pollo",
         "url": "https://comococinar.pe/aguadito-de-pollo/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/aguadito-de-pollo-2.jpg",
         "how_to_prepare": [
             "El aguadito de pollo es una deliciosa sopa a base de aderezo, típico de la cocina peruana. Este plato consiste en aderezar, sofreír las presas de pollo y cocinar el arroz obteniendo una gran concentración de todos los insumos.",
             "Un plato considerado un levantamuertos, el cual compartió lugar con el tradicional caldo de gallina peruano. Ambos platos servidos calientes en la madrugada después de una noche de jarana.",
@@ -473,6 +481,7 @@
         "id": 20009,
         "name": "Rocoto relleno arequipeño",
         "url": "https://comococinar.pe/rocoto-relleno-arequipeno/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/06/rocoto-relleno.jpg",
         "how_to_prepare": [
             "El rocoto relleno arequipeño es un plato insignia del Perú, el nombre proviene de la ciudad de Arequipa en donde se realiza este delicioso plato.",
             "A pesar de ser hecho a base de rocoto el cual es picante, este plato no es para nada picante y es perfecto tanto para adultos como para niños. Lleva un aderezo de relleno e insumos externos como huevo y aceite que realzan el sabor.",
@@ -535,6 +544,7 @@
         "id": 20010,
         "name": "Cóctel de Machu Picchu",
         "url": "https://comococinar.pe/coctel-de-machu-picchu/",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2021/07/Coctel-de-Machu-Picchu-1.jpg",
         "how_to_prepare": [
             "Cóctel de Machu Picchu bebida insignia del Perú que lleva el nombre de nuestra maravilla peruana en Cusco. Su preparación consta de 3 colores que son en representación del Tahuantinsuyo.",
             "¿Parece difícil de preparar?, aquí te presentamos la receta paso a paso y con la recomendación necesaria para lograr la integración en los 3 colores sin combinarlos.",
