@@ -4,6 +4,7 @@ from fastapi import FastAPI, Path, HTTPException, Response, Security
 from fastapi.security import APIKeyHeader
 import json, random
 from csv import DictReader
+from unidecode import unidecode
 
 app = FastAPI()
 
@@ -26,6 +27,9 @@ def get_api_key(api_key_header: str = Security(api_key_header)) -> str:
         status_code=401,
         detail="Invalid or missing API Key",
     )
+
+async def format_search_text(text):
+    return unidecode(text.casefold())
 
 
 @app.get("/")
@@ -60,9 +64,9 @@ async def search_recipe(query: str = Path(description="Recipe query")):
     print(query.casefold()) #Debug
     search = []
     for recipe in recipes:
-        if recipe["name"].casefold() == query.casefold():
+        if await format_search_text(recipe["name"]) == await format_search_text(query):
             return {"id": recipe["id"], "name": recipe["name"]}
-        elif query.casefold() in recipe["name"].casefold():
+        elif await format_search_text(query) in await format_search_text(recipe["name"]):
             search.append({"id": recipe["id"], "name": recipe["name"]})
     if len(search) != 0:
         return search
