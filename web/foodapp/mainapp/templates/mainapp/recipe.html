@@ -1,0 +1,47 @@
+{% extends "mainapp/layout.html" %}
+
+{% block body %}
+<main>
+    <div class="recipe-card">
+        <h1>{{ response.name }}</h1>
+        <div class="image-container">
+            <img class="recipe-image" src="{{ response.image }}">
+        </div>
+        <h2 class="section-title">Como preparar {{ response.name }}</h2>
+        <div class="content">
+            {% for step in response.how_to_prepare %}
+            <p>{{ step }}</p>
+            {% endfor %}
+        </div>
+        <h2 class="section-title">Información</h2>
+        <ul class="content">
+            <li>Tiempo de preparación: {{ response.information.cooktime.value }} {{ response.information.cooktime.unit }}</li>
+            <li>Para {{ response.information.servings }} personas</li>
+        </ul>
+        <h2 class="section-title">Ingredientes</h2>
+        <ul class="content">
+            {% for ingredient in response.ingredients %}
+            <li>{{ ingredient }}</li>
+            {% endfor %}
+        </ul>
+        <h2 class="section-title">Preparación</h2>
+        <ul class="content">
+            {% for step in response.preparation %}
+            <li>{{ step }}</li>
+            {% endfor %}
+        </ul>
+        <h2 class="section-title">Recomendaciones</h2>
+        <ul class="content">
+            {% for recomendation in response.recommendations %}
+            <li>{{ recomendation }}</li>
+            {% endfor %}
+        </ul>
+        <h2 class="section-title">Historia de {{ response.name }}</h2>
+        <div class="content">
+            {% for row in response.history %}
+            <p>{{ row }}</p>
+            {% endfor %}
+        </div>
+    </div>
+</main>
+{% endblock %}
