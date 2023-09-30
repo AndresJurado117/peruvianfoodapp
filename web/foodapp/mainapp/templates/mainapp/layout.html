@@ -10,13 +10,13 @@
 </head>
 <body>
     <div class="logo-container">
-        <a href="{% url 'index' %}"><h1 class="logo">Bienvenido a FoodApp</h1></a>
-        <p class="slogan">Platos a tu mesa</p>
+        <a href="{% url 'index' %}"><div class="logo">Bienvenido a FoodApp</div></a>
+        <div class="slogan">Platos a tu mesa</div>
     </div>
     <div class="button-container">
         <form action="{% url 'search' %}" method="get">
             {% csrf_token %}
-            <input type="text" name="query" placeholder="Que buscas?">
+            <input type="text" name="query" placeholder="¿Que receta buscas?" autocomplete="off">
         </form>
         <a href="{% url 'index' %}"><button class="search-button">Receta al azar</button></a>
     </div>

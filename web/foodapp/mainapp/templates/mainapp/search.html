@@ -3,12 +3,12 @@
 {% block body %}
 <main>
     <div class="recipe-card">
-        <h2 class="section-title">Resultados:</h2>
+        <h1 class="title">Resultados</h1>
 {% if error %}
-<p>{{ error }}</p>
+<p class="content">{{ error }}</p>
 {% endif %}
     {% if response %}
-    <ul>
+    <ul class="content">
         {% for recipe in response %}
         <li><a href="{% url 'recipe' recipe.id %}">{{ recipe.name }}</a></li>
         {% endfor %}

@@ -8,3 +8,5 @@ web/web_env/
 
 # Pycache
 api/__pycache__/
+web/foodapp/foodapp/__pycache__/
+web/foodapp/mainapp/__pycache__/
