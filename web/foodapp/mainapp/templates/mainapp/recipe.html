@@ -5,7 +5,7 @@
     <div class="recipe-card">
         <h1 class="title">{{ response.name }}</h1>
         <div class="image-container">
-            <img class="recipe-image" src="{{ response.image }}">
+            <img class="recipe-image" src="{{ images_cdn }}{{ response.image }}">
         </div>
         <h2 class="section-title">Como preparar {{ response.name }}</h2>
         <div class="content">
@@ -15,7 +15,7 @@
         </div>
         <h2 class="section-title">Información</h2>
         <ul class="content">
-            <li>Tiempo de preparación: {{ response.information.cooktime.value }} {{ response.information.cooktime.unit }}</li>
+            <li>Tiempo de preparación: {{ response.information.cooktime.value }} minutos.</li>
             <li>Para {{ response.information.servings }} personas</li>
         </ul>
         <h2 class="section-title">Ingredientes</h2>

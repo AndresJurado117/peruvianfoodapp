@@ -1,21 +1,22 @@
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.urls import reverse
-import requests
+from dotenv import load_dotenv
+import os, requests
 
-API_HOST = "http://127.0.0.1:80"
-API_KEY = "test"
-IMAGES_CDN = "https://comococinar.pe/wp-content/uploads/2021/06/"
+API_HOST = os.getenv("API_HOST")
+API_KEY = os.getenv("API_KEY")
+IMAGES_CDN = os.getenv("IMAGES_CDN")
 
 async def index(request):
     headers = {"API-Key": API_KEY}
     response = requests.get(f"{API_HOST}/random_recipe", headers=headers).json()
-    return render(request, "mainapp/recipe.html", {"response": response})
+    return render(request, "mainapp/recipe.html", {"response": response, "images_cdn": IMAGES_CDN})
 
 async def recipe(request, recipe_id: int) -> render:
     headers = {"API-Key": API_KEY}
     response = requests.get(f"{API_HOST}/recipes/{recipe_id}", headers=headers).json()
-    return render(request, "mainapp/recipe.html", {"response" : response})
+    return render(request, "mainapp/recipe.html", {"response" : response, "images_cdn": IMAGES_CDN})
 
 async def search(request) -> render:
     headers = {"API-Key": API_KEY}

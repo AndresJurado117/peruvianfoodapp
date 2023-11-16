@@ -17,6 +17,7 @@
         <form action="{% url 'search' %}" method="get">
             {% csrf_token %}
             <input type="text" name="query" placeholder="¿Que receta buscas?" autocomplete="off">
+            <div class="autocomplete"></div>
         </form>
         <a href="{% url 'index' %}"><button class="search-button">Receta al azar</button></a>
     </div>

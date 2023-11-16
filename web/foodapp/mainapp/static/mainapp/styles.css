@@ -106,6 +106,7 @@ meter {
 
 a:hover {
   color: orange;
+  transition: color 150ms;
 }
 
 body {
