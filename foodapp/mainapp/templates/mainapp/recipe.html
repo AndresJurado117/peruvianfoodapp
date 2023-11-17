@@ -1,11 +1,18 @@
 {% extends "mainapp/layout.html" %}
 
+{% block meta %}
+    <meta name="description" content="Receta peruana para preparar {{ response.name }}">
+    <meta name="keywords" content="Comida, Peruana, Recetas, {{ response.name }}, {{ response.information.cooktime.value }} minutos, {{ response.information.servings }} personas">
+{% endblock %}
+
+{% block title%}FoodApp - {{ response.name }}{% endblock %}
+
 {% block body %}
 <main>
     <div class="recipe-card">
         <h1 class="title">{{ response.name }}</h1>
         <div class="image-container">
-            <img class="recipe-image" src="{{ images_cdn }}{{ response.image }}">
+            <img loading="lazy" class="recipe-image" src="{{ images_cdn }}{{ response.image }}" width="376" height="250" alt="{{ response.name }}">
         </div>
         <h2 class="section-title">Como preparar {{ response.name }}</h2>
         <div class="content">

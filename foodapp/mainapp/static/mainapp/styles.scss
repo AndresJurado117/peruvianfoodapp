@@ -256,7 +256,8 @@ p {
 
 @media (max-width: 418px) {
     .recipe-image {
-        max-height: 200px;
+        width: 100%;
+        height: auto;
     }
 }
 
