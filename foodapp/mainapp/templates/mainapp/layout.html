@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link href="{% static 'mainapp/styles.css' %}" rel="stylesheet">
+</head>
+<body>
+    <div class="logo-container">
+        <a href="{% url 'index' %}"><div class="logo">Bienvenido a FoodApp</div></a>
+        <div class="slogan">Platos a tu mesa</div>
+    </div>
+    <div class="button-container">
+        <form action="{% url 'search' %}" method="get">
+            {% csrf_token %}
+            <input type="text" name="query" placeholder="¿Que receta buscas?" autocomplete="off">
+            <div class="autocomplete"></div>
+        </form>
+        <a href="{% url 'index' %}"><button class="search-button">Receta al azar</button></a>
+    </div>
+    {% block body %}
+    {% endblock %}
+</body>
+</html>
