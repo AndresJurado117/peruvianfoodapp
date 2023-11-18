@@ -261,6 +261,7 @@ p {
   .recipe-image {
     width: 100%;
     height: auto;
+    border-radius: 0px;
   }
 }
 @media (max-width: 576px) {
